@@ -1,0 +1,19 @@
+{
+  "name": "extension-boilerplate",
+  "version": "1.0.0",
+  "description": "browser extension boilerplate using react and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "browser",
+    "extension",
+    "react",
+    "typescript",
+    "webpack"
+  ],
+  "author": "zubae",
+  "license": "ISC"
+}
