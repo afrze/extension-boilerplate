@@ -1,5 +1,6 @@
 import { createRoot } from 'react-dom/client'
 import React from 'react'
+import './popup.css'
 
 const Popup = () => {
   return (
@@ -13,4 +14,4 @@ const Popup = () => {
 const root = document.createElement('div')
 document.body.appendChild(root)
 const rootElement = createRoot(root)
-rootElement.render(<Popup />)
+rootElement.render(<Popup></Popup>)
