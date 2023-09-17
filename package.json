@@ -16,7 +16,7 @@
     "webpack"
   ],
   "author": "zubae",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/chrome": "^0.0.246",
     "@types/react": "^18.2.21",

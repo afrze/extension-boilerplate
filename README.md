@@ -34,7 +34,6 @@ All packages are development depndancies as the extension is loaded directly fro
 - Follow this [Link](https://developer.chrome.com/docs/extensions/) to read more about on developing chrome extensions.
 - Major parts of extension
   - `popup` deals with functionality and look of the poppu which dispalys when you click on the extension.
-  - `option` is for the options page of the extension, where user can configure. 
+  - `option` is for the options page of the extension, where user can configure.
   - `background` is a service worker where we can run some background tasks even when extension popup is idle or hidden.
   - `contenScript` is for interacting with visisted web pages. It heps us to run scripts on the webpage / or get data from the webpage to the extension.
-  
